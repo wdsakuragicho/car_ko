@@ -14,5 +14,6 @@ public class a : MonoBehaviour
     void Update()
     {
         transform.Rotate(0, 100, 0);
+        
     }
 }
